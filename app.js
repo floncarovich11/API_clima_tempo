@@ -23,7 +23,9 @@ const traducaoClima = {
     'light intensity drizzle': 'garoa leve',
     'shower rain': 'banho de chuva',
     'light intensity shower rain': 'chuva media',
-    
+    'haze': 'neblina',
+    'smoke':'fumaça'
+
 
 }
 
